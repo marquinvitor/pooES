@@ -1,4 +1,9 @@
-import java.util.*;
+// 1. Fiz tudo e passou em todos os testes.
+// 2. Fiz sozinho.
+// 3. Aprendi a questao como um todo.
+// 4. Levei  mais ou menos 3 horas.import java.util.*;
+
+
 import java.text.DecimalFormat;
 
 class Slot {
